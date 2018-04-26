@@ -10,6 +10,9 @@
 
 @implementation person
 -(void)test{
+    NSLog(@"11111");
+}
+-(void)test{
     NSLog(@"22222");
 }
 @end
