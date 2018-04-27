@@ -21,7 +21,7 @@
     NSLog(@"你好吗吗");
 }
 
--(void)test{
-    NSLog(@"33333");
+-(void)test1{
+    NSLog(@"11111");
 }
 @end
