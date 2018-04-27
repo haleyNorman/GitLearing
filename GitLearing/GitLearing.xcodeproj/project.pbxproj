@@ -16,6 +16,7 @@
 		E9183FC72091B695006F6EB2 /* GitLearingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E9183FC62091B695006F6EB2 /* GitLearingTests.m */; };
 		E9183FD22091B695006F6EB2 /* GitLearingUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E9183FD12091B695006F6EB2 /* GitLearingUITests.m */; };
 		E9183FE42092CE3F006F6EB2 /* dog.m in Sources */ = {isa = PBXBuildFile; fileRef = E9183FE32092CE3F006F6EB2 /* dog.m */; };
+		E9183FEA2092F734006F6EB2 /* homeVc.m in Sources */ = {isa = PBXBuildFile; fileRef = E9183FE92092F734006F6EB2 /* homeVc.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		E9183FD32091B695006F6EB2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E9183FE22092CE3F006F6EB2 /* dog.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = dog.h; sourceTree = "<group>"; };
 		E9183FE32092CE3F006F6EB2 /* dog.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = dog.m; sourceTree = "<group>"; };
+		E9183FE82092F734006F6EB2 /* homeVc.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = homeVc.h; sourceTree = "<group>"; };
+		E9183FE92092F734006F6EB2 /* homeVc.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = homeVc.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				E9183FB12091B695006F6EB2 /* ViewController.m */,
 				E9183FE22092CE3F006F6EB2 /* dog.h */,
 				E9183FE32092CE3F006F6EB2 /* dog.m */,
+				E9183FE82092F734006F6EB2 /* homeVc.h */,
+				E9183FE92092F734006F6EB2 /* homeVc.m */,
 				E9183FB32091B695006F6EB2 /* Main.storyboard */,
 				E9183FB62091B695006F6EB2 /* Assets.xcassets */,
 				E9183FB82091B695006F6EB2 /* LaunchScreen.storyboard */,
@@ -273,6 +278,7 @@
 				E9183FB22091B695006F6EB2 /* ViewController.m in Sources */,
 				E9183FBD2091B695006F6EB2 /* main.m in Sources */,
 				E9183FE42092CE3F006F6EB2 /* dog.m in Sources */,
+				E9183FEA2092F734006F6EB2 /* homeVc.m in Sources */,
 				E9183FAF2091B695006F6EB2 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
