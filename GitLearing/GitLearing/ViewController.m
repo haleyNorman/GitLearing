@@ -18,4 +18,8 @@
     [super viewDidLoad];
     NSLog(@"你好吗？");
 }
+
+-(void)test3{
+    NSLog(@"33333");
+}
 @end
