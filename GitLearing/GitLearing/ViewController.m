@@ -17,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"你好吗？");
+    
+    NSLog(@"你好吗吗");
 }
 
 
