@@ -17,11 +17,5 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"你好吗？");
-    
-    NSLog(@"你好吗吗");
-}
-
--(void)test1{
-    NSLog(@"11111");
 }
 @end
