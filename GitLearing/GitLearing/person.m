@@ -9,13 +9,13 @@
 #import "person.h"
 
 @implementation person
--(void)test{
+-(void)test1{
     NSLog(@"11111");
 }
--(void)test{
+-(void)test2{
     NSLog(@"22222");
 }
--(void)test{
+-(void)test3{
     NSLog(@"33333");
 }
 @end
