@@ -28,9 +28,5 @@
     }
     return _clickBtn;
 }
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-}
-
 
 @end
