@@ -24,6 +24,7 @@
         _clickBtn = [[UIButton alloc]initWithFrame:CGRectMake(0, 0, 40, 20)];
         _clickBtn.center = self.view.center;
         [_clickBtn setTitle:@"点我" forState:UIControlStateNormal];
+        [self.view addSubview:_clickBtn];
     }
     return _clickBtn;
 }

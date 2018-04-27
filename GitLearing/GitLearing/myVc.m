@@ -23,6 +23,7 @@
     if (_redView == nil) {
         _redView = [[UIButton alloc]initWithFrame:CGRectMake(0, 0, 40, 20)];
         _redView.backgroundColor = [UIColor redColor];
+        [self.view addSubview:_redView];
     }
     return _redView;
 }
