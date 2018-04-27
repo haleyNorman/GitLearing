@@ -16,6 +16,7 @@
 		E9183FC72091B695006F6EB2 /* GitLearingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E9183FC62091B695006F6EB2 /* GitLearingTests.m */; };
 		E9183FD22091B695006F6EB2 /* GitLearingUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E9183FD12091B695006F6EB2 /* GitLearingUITests.m */; };
 		E9183FE42092CE3F006F6EB2 /* dog.m in Sources */ = {isa = PBXBuildFile; fileRef = E9183FE32092CE3F006F6EB2 /* dog.m */; };
+		E9183FE72092F70F006F6EB2 /* myVc.m in Sources */ = {isa = PBXBuildFile; fileRef = E9183FE62092F70F006F6EB2 /* myVc.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		E9183FD32091B695006F6EB2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E9183FE22092CE3F006F6EB2 /* dog.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = dog.h; sourceTree = "<group>"; };
 		E9183FE32092CE3F006F6EB2 /* dog.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = dog.m; sourceTree = "<group>"; };
+		E9183FE52092F70F006F6EB2 /* myVc.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = myVc.h; sourceTree = "<group>"; };
+		E9183FE62092F70F006F6EB2 /* myVc.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = myVc.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				E9183FB12091B695006F6EB2 /* ViewController.m */,
 				E9183FE22092CE3F006F6EB2 /* dog.h */,
 				E9183FE32092CE3F006F6EB2 /* dog.m */,
+				E9183FE52092F70F006F6EB2 /* myVc.h */,
+				E9183FE62092F70F006F6EB2 /* myVc.m */,
 				E9183FB32091B695006F6EB2 /* Main.storyboard */,
 				E9183FB62091B695006F6EB2 /* Assets.xcassets */,
 				E9183FB82091B695006F6EB2 /* LaunchScreen.storyboard */,
@@ -270,6 +275,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E9183FE72092F70F006F6EB2 /* myVc.m in Sources */,
 				E9183FB22091B695006F6EB2 /* ViewController.m in Sources */,
 				E9183FBD2091B695006F6EB2 /* main.m in Sources */,
 				E9183FE42092CE3F006F6EB2 /* dog.m in Sources */,
