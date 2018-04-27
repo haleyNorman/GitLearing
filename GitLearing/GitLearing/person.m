@@ -15,4 +15,7 @@
 -(void)test{
     NSLog(@"22222");
 }
+-(void)test{
+    NSLog(@"33333");
+}
 @end
