@@ -17,11 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"你好吗？");
-    
-    NSLog(@"你好吗吗");
 }
 
--(void)test{
+-(void)test3{
     NSLog(@"33333");
 }
 @end
